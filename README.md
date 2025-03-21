@@ -1,4 +1,4 @@
-![Diagram](https://github.com/user-attachments/assets/959235cf-845b-40ee-8b59-bcf98bc9bb27)# SaveMiiRduino
+# SaveMiiRduino
  SaveMii module using Arduino
 
 This program can be used to enter the Wii's Recovery Mode, just like the SaveMii Module.
