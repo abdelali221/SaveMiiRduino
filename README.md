@@ -15,4 +15,4 @@ Simply follow this diagram :
 
 ![Diagram](https://github.com/user-attachments/assets/8154db33-6cf3-46e0-9c98-90a60ecb4680)
 
-I recommend powering the Arduino from the GameCube controller cable, so the Wii and the Arduino Powers on at the same time.
+THIS APP WASN'T TESTED YET, if it works for you feel free to create and issue and tell me about it 
