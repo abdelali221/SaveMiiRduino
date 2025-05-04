@@ -1,7 +1,7 @@
 # SaveMiiRduino
  SaveMii module using Arduino
 
-This program can be used to enter the Wii's Recovery Mode, just like the SaveMii Module.
+This program can be used to enter the Wii's Recovery Mode, just like the SaveMii Module using the SaveMiiFrii technique.
 
 # What you'll need...
 
