@@ -6,8 +6,8 @@ This program can be used to enter the Wii's Recovery Mode, just like the SaveMii
 # What you'll need...
 
 - A 16Mhz Arduino (Atmega328/P works fine).
-- A Logic Level Converter (To convert the 5v to 3.3v).
-- A GameCube Controller Cable.
+- A Logic Level Converter (To convert the 5v to 3.3v and vice versa).
+- A spare GameCube Controller cable.
 
 # How to Use : 
 
@@ -15,4 +15,4 @@ Simply follow this diagram :
 
 ![Diagram](https://github.com/user-attachments/assets/8154db33-6cf3-46e0-9c98-90a60ecb4680)
 
-THIS APP WASN'T TESTED YET, if it works for you feel free to create and issue and tell me about it 
+THIS APP WASN'T TESTED YET, if it works for you feel free to create and issue and tell me about it.
